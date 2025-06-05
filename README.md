@@ -1,4 +1,4 @@
-#VivoDeEscribir
+# VivoDeEscribir
 
 VivoDeEscribir es un espacio digital que muestra en tiempo real el proceso creativo y la escritura de una novela, combinando momentos breves de conexión y sesiones nocturnas de escritura. El proyecto se basa en la honestidad del acto de escribir, mostrando tanto la creación espontánea como la exploración del autor y generando un vínculo cercano con el público que puede seguir, interactuar y acompañar el proceso sin filtros ni poses. La interacción se da a través de varios canales que integran la experiencia en un ecosistema abierto y accesible.
 
