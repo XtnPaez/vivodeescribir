@@ -1,11 +1,69 @@
-# VivoDeEscribir
+# VivoDeEscribir 📖🎥
 
-VivoDeEscribir es un espacio digital que muestra en tiempo real el proceso creativo y la escritura de una novela, combinando momentos breves de conexión y sesiones nocturnas de escritura. El proyecto se basa en la honestidad del acto de escribir, mostrando tanto la creación espontánea como la exploración del autor y generando un vínculo cercano con el público que puede seguir, interactuar y acompañar el proceso sin filtros ni poses. La interacción se da a través de varios canales que integran la experiencia en un ecosistema abierto y accesible.
+Canal de YouTube donde escribo en vivo: cuentos, novelas, código, ideas y contenidos reales por los que me pagan. A veces comparto mi proceso, otras veces improviso. Todo en vivo, todo real.
 
-Desde el punto de vista técnico, los vivos cortos de tres minutos (o menos) se emitirán por YouTube para aprovechar su facilidad de uso. La escritura nocturna será transmitida con OBS Studio, combinando la vista ampliada del Google Docs donde se escribe con una cámara pequeña que muestra al autor en silencio, sumergido en su proceso, invitando a la audiencia a espiar. La web principal del proyecto será un sitio alojado en GitHub Pages, con una interfaz de tres pestañas: el vivo de YouTube con chat, el documento colaborativo en Google Docs y un widget para mostrar la música que se escucha durante la escritura.
+## 🎯 Objetivo
 
-Se usará un canal de WhatsApp como un “cuaderno de ideas”, un espacio donde la audiencia podrá ir viendo los recordatorios para el momento de setarse a escribir: mensajes, enlaces, textos, recomendaciones.
+Monetizar el canal y recibir pagos regulares a través del Programa de Socios de YouTube (YPP) y otras vías complementarias como membresías, superchats, encargos y/o aportes.
 
-Este ecosistema está pensado para ser totalmente transparente, gratuito y replicable, mostrando que cualquiera puede seguir el proceso sin intermediarios y participar desde la autenticidad.
+---
 
-Para organizar y centralizar todos los recursos, **VivoDeEscribir** usará Linktree o plataformas similares como hub que agrupe el canal de YouTube, la web, el canal de WhatsApp y otros enlaces importantes.
+## 🧠 Estrategia de Implementación
+
+### Fase 0 – Setup (semana 1)
+- Crear y configurar canal.
+- Definir identidad: con nombre real o seudónimo (consistente y humanizado).
+- Instalar y probar OBS.
+- Crear canal de difusión por WhatsApp.
+- Registrar perfiles complementarios (IG, X, TikTok opcional).
+
+### Fase 1 – Lanzamiento (semanas 1 a 4)
+- 3 vivos semanales (escribiendo en Google Docs compartido vía OBS).
+- 1 video corto diario (máximo 3 min) con idea, frase, lugar, disparador.
+- Reutilizar los videos cortos como Shorts/Reels/TikToks.
+- Difusión activa en WhatsApp y redes.
+- Meta: llegar a 100 suscriptores reales.
+
+### Fase 2 – Escalada (meses 2 a 4)
+- Aumentar frecuencia de contenido que más tracciona.
+- Añadir secciones con gancho: improvisaciones, encargos pagos, correcciones en vivo.
+- Fomentar interacción con el chat y comunidad.
+- Analizar métricas cada 10 días y ajustar.
+
+### Fase 3 – Monetización directa (a partir de los 1.000 subs y 4.000 hs)
+- Habilitar AdSense, Superchat, membresías.
+- Ofrecer productos/servicios propios: corrección, escritura a medida, mentorías.
+- Abrir aportes voluntarios (Cafecito, Patreon, etc).
+
+---
+
+## 🔧 Herramientas Clave
+
+- OBS Studio
+- Google Docs
+- Canva (thumbnails)
+- Google Calendar / Notion
+- WhatsApp Canal
+- GitHub para documentación del proceso
+
+---
+
+## 📌 Estado Actual
+
+🚧 En desarrollo. Canal en fase de lanzamiento.  
+🎥 Contenido en producción y primeros seguidores llegando.
+
+---
+
+## ✅ Próximos pasos
+
+- [ ] Grabar y publicar primeros 3 vivos reales
+- [ ] Subir 7 Shorts (1 por día)
+- [ ] Alcanzar 50 suscriptores orgánicos
+- [ ] Ajustar estrategia de difusión y engagement
+
+---
+
+**Todo lo que hago lo hago en vivo. Todo lo que escribo, lo muestro.**  
+Seguime. Suscribite. Pedime algo para escribir.
+
