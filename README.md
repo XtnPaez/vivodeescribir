@@ -48,6 +48,29 @@ Monetizar el canal y recibir pagos regulares a través del Programa de Socios de
 
 ---
 
+## 🤝 Interacción con Otros Canales
+
+Parte clave de la estrategia es **seguir e interactuar activamente con otros canales relacionados** con escritura, creatividad, libros, contenido en vivo, programación y procesos creativos.
+
+### Objetivo:
+- Generar visibilidad genuina a través del engagement real.
+- Identificar referentes y construir relaciones de valor.
+- Detectar oportunidades de colaboración o mención cruzada.
+
+### Acciones:
+- Seguir al menos 10 canales estratégicos en YouTube, IG y TikTok.
+- Comentar y participar activamente en sus vivos y publicaciones.
+- Registrar interacciones en el archivo [`Community_Tracking.md`](./wiki/Community_Tracking.md).
+- Evaluar qué canales generan más retorno en visibilidad, ideas o comunidad.
+
+### Herramienta sugerida:
+- Mini CRM manual en Notion o Google Sheets para trackear:
+  - Última interacción
+  - Respuesta o impacto
+  - Seguimiento pendiente
+
+---
+
 ## 📌 Estado Actual
 
 🚧 En desarrollo. Canal en fase de lanzamiento.  
