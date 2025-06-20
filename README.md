@@ -60,7 +60,7 @@ Parte clave de la estrategia es **seguir e interactuar activamente con otros can
 ### Acciones:
 - Seguir al menos 10 canales estratégicos en YouTube, IG y TikTok.
 - Comentar y participar activamente en sus vivos y publicaciones.
-- Registrar interacciones en el archivo [`Community_Tracking.md`](./wiki/Community--Tracking).
+- Registrar interacciones en el archivo [`Community Tracking`]([./wiki/Community--Tracking](https://github.com/XtnPaez/vivodeescribir/wiki/Community--Tracking)).
 - Evaluar qué canales generan más retorno en visibilidad, ideas o comunidad.
 
 ### Herramienta sugerida:
